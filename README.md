@@ -1,7 +1,5 @@
 # Python_Capstone_Project
 
-This project is part of my Python capstone, where I worked with three datasets related to employees, their project assignments, and seniority levels.
-
 **Key Tasks Completed**:
 
 - Created and cleaned multiple DataFrames using Pandas
